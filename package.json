@@ -1,6 +1,6 @@
 {
   "name": "load-pkg-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Load the package.json for a module currently installed in node_modules, or at the given cwd.",
   "main": "lib/index.js",
   "dependencies": {
